@@ -1,4 +1,4 @@
-# project_ibs
+# ibs_signup
 
 A new Flutter project.
 
